@@ -1,0 +1,26 @@
+# macOS and editor metadata
+.DS_Store
+*.swp
+*~
+
+# Temporary and lock files
+~$*
+*.tmp
+*.bak
+
+# Common analysis caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.Rhistory
+.RData
+
+# Local environments and secrets
+.venv/
+venv/
+.env
+.env.*
+
+# Generated operating-system thumbnails
+Thumbs.db
