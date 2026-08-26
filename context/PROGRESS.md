@@ -7,4 +7,7 @@
   outputs.
 - Created starter files for context, decisions, progress, and dataset
   documentation.
-
+- Defined the topic as Audio Question Answering and Speech/Spoken Question
+  Answering.
+- Added a paper-first reading list, structured paper-note template, and candidate
+  dataset provenance table.

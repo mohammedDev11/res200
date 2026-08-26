@@ -3,7 +3,7 @@
 ## Project identity
 
 - **Project:** RES200
-- **Topic:** To be defined
+- **Topic:** Audio Question Answering (AQA) and Speech/Spoken Question Answering (SQA)
 - **Owner:** To be defined
 - **Status:** Workspace initialized
 - **Last updated:** 2026-08-26
@@ -16,7 +16,9 @@ chat history.
 
 ## Research question or problem
 
-To be defined.
+How can systems answer natural-language questions grounded in audio, including
+environmental sound and spoken content, and how should those systems be trained
+and evaluated using authentic, well-documented research data?
 
 ## Goals
 
@@ -42,17 +44,28 @@ grading criteria, and expected outputs here.
 
 ## Current understanding
 
-The workspace has been created, but no subject matter or source materials have
-been provided yet.
+The project covers two overlapping research areas:
+
+- **Audio Question Answering (AQA):** questions are grounded in non-speech or
+  general audio, such as sound events, acoustic scenes, music, temporal order,
+  and event counts.
+- **Speech/Spoken Question Answering (SQA):** questions or evidence are spoken;
+  systems must understand linguistic content, often under ASR errors, speaker
+  variation, accents, or conversational context.
+
+Newer audio-language models and benchmarks increasingly evaluate both areas.
+The project will prioritize original papers, official datasets, and transparent
+documentation of whether audio and annotations are human-recorded, synthesized,
+or automatically generated.
 
 ## Next actions
 
-1. Add the course or project brief.
-2. Define the topic and main research question.
-3. Add source documents and datasets.
-4. Record the required deliverables and deadlines.
+1. Read the core papers in `../literature/READING_LIST.md` in order.
+2. Complete one structured note per paper using the note template.
+3. Verify dataset licenses, access, provenance, and annotation methods.
+4. Narrow the topic into a defensible research gap.
+5. Record assignment deliverables and deadlines when available.
 
 ## Key files
 
 Add links to the most important local files as the project develops.
-
