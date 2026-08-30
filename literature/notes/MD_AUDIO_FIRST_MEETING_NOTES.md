@@ -1,14 +1,13 @@
 # MD-Audio: First Meeting Notes
 
 **Paper:** [Multi-Domain Audio Question Answering Benchmark Toward Acoustic Content Reasoning](https://arxiv.org/html/2505.07365v2)  
-**Purpose:** A speaking reference for the first meeting with Dr. Hamzah  
 **Scope:** What AQA is, why MD-Audio was proposed, how AQA works at a high level, and the three benchmark subsets
 
 > **Main message:** MD-Audio is not mainly a new model. It is a structured benchmark for testing what current audio-language models can and cannot understand and reason about.
 
 ---
 
-## 1. Start with Audio Question Answering
+## 1. Audio Question Answering
 
 **Audio Question Answering (AQA)** is a task in which a system receives an audio recording and a natural-language question, then gives a question-specific answer grounded in the audio.
 
