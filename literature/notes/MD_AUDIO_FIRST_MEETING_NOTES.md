@@ -131,7 +131,7 @@ D. Water running
 Correct answer: B. Door closing
 ```
 
-> **Meeting point:** MD-Audio tests different forms of acoustic reasoning using one common AQA format.
+> MD-Audio tests different forms of acoustic reasoning using one common AQA format.
 
 ---
 
