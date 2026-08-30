@@ -44,7 +44,7 @@ Recognition: Audio → “dog barking”
 Reasoning: Did the dog bark before or after the car passed?
 ```
 
-> **Meeting point:** AQA connects sound perception with language understanding and reasoning.
+> AQA connects sound perception with language understanding and reasoning.
 
 ---
 
@@ -92,7 +92,7 @@ flowchart LR
     Q --> S[Question-specific answer]
 ```
 
-> **Meeting point:** The paper is motivated by moving beyond assigning labels toward flexible, question-driven audio understanding.
+> The paper is motivated by moving beyond assigning labels toward flexible, question-driven audio understanding.
 
 ---
 
@@ -168,7 +168,7 @@ Reasoning: Select the answer consistent with both pieces of information.
 
 Not every AQA question requires external knowledge.
 
-> **Meeting point:** AQA may combine auditory perception, temporal relationships, contextual interpretation, and external knowledge.
+> AQA may combine auditory perception, temporal relationships, contextual interpretation, and external knowledge.
 
 ---
 
@@ -196,7 +196,7 @@ Language model: reads the species question and choices.
 Combined system: selects the species that best matches the audio.
 ```
 
-> **Meeting point:** The encoder handles audio information, while the language model connects it to the question and formulates the answer.
+> The encoder handles audio information, while the language model connects it to the question and formulates the answer.
 
 ---
 
@@ -247,7 +247,7 @@ Then answer a question about its habitat or behavior.
 
 The recordings vary greatly in duration, sample rate, and recording conditions, making the domain challenging.
 
-> **Meeting point:** BQA combines specialized sound perception with acoustic or biological knowledge.
+> BQA combines specialized sound perception with acoustic or biological knowledge.
 
 ---
 
@@ -307,7 +307,7 @@ Question: Which sound overlaps with the water?
 Answer: Speech.
 ```
 
-> **Meeting point:** TSQA asks mainly, “What happened when?”
+> TSQA asks mainly, “What happened when?”
 
 ---
 
@@ -345,7 +345,7 @@ Level 3 — Context: What situation do they represent?
 Level 4 — Reasoning: What can be inferred to answer the question?
 ```
 
-> **Meeting point:** CQA asks, “What is happening, how are the clues related, and what can we infer from them?”
+> CQA asks, “What is happening, how are the clues related, and what can we infer from them?”
 
 ---
 
@@ -364,7 +364,7 @@ TSQA: When did the cheering begin?
 CQA: What does the cheering suggest about the situation?
 ```
 
-> **Meeting point:** Temporal reasoning can be part of CQA, but CQA is broader than temporal reasoning alone.
+> Temporal reasoning can be part of CQA, but CQA is broader than temporal reasoning alone.
 
 ---
 
