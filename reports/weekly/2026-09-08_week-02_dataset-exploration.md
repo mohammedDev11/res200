@@ -29,7 +29,6 @@ The collected datasets fall into three main categories:
 | Name | Type | Language | Size | Audio Available? | Questions Available? | Answers Available? | Link |
 |---|---|---|---|---|---|---|---|
 | qaida-audio | Arabic Speech / ASR | Arabic | 2,227 samples | Yes | No | No | [Click](https://huggingface.co/datasets/yourmumisacow/qaida-audio) |
-| Arabic Alphabet Speech Dataset | Arabic Speech / Alphabet Recognition | Arabic | 1,032 files | Yes | No | No | [Click](https://www.kaggle.com/datasets/mazinali1990/arabic-alphabet-speech-dataset/data) |
 | dcase2025-audio-qa | Audio Question Answering | English | 15,571 samples | Yes | Yes | Yes (multiple choice) | [Click](https://huggingface.co/datasets/gijs/dcase2025-audio-qa) |
 | trivia_qa_audio_score | Audio Question Answering | English | 1,000 samples | Yes | Yes | Yes | [Click](https://huggingface.co/datasets/chiyuanhsiao/trivia_qa-audio-score) |
 | SADA | Arabic Speech / ASR | Arabic | 4,567 files | Yes | No | No | [Click](https://www.kaggle.com/datasets/sdaiancai/sada2022/data) |
@@ -43,10 +42,6 @@ The collected datasets fall into three main categories:
 | HeySQuAD Human | Spoken Question Answering | English | 76,148 samples | Yes — human speech | Yes | Yes | [Click](https://huggingface.co/datasets/yijingwu/HeySQuAD_human) |
 | HeySQuAD Machine | Spoken Question Answering | English | 98,163 samples | Yes — synthetic speech | Yes | Yes | [Click](https://huggingface.co/datasets/yijingwu/HeySQuAD_machine) |
 | LibriSQA | Open-ended Spoken Question Answering | English | ~107K SQA pairs | Yes — LibriSpeech audio | Yes | Yes | [Click](https://huggingface.co/datasets/ZihanZhao/LibriSQA) |
-| SQuAD 1.1 | Text QA / Reading Comprehension | English | ~100K QA pairs | No | Yes | Yes | [Click](https://rajpurkar.github.io/SQuAD-explorer/) |
-| SQuAD 2.0 | Text QA / Reading Comprehension | English | 150K+ questions | No | Yes | Yes | [Click](https://rajpurkar.github.io/SQuAD-explorer/) |
-| Natural Questions | Open-domain / Reading Comprehension QA | English | ~323K examples | No | Yes | Yes | [Click](https://ai.google.com/research/NaturalQuestions) |
-| TriviaQA | Open-domain Question Answering | English | 95K+ QA pairs | No | Yes | Yes | [Click](https://nlp.cs.washington.edu/triviaqa/) |
 | WebQuestions | Open-domain Question Answering | English | ~5.8K questions | No | Yes | Yes | [Click](https://github.com/brmson/dataset-factoid-webquestions) |
 | CuratedTREC | Factoid Question Answering | English | ~2K questions | No | Yes | Yes | [Click](https://github.com/brmson/dataset-factoid-curated) |
 
