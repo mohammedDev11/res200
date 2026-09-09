@@ -28,10 +28,8 @@ The collected datasets fall into three main categories:
 
 | Name | Type | Language | Size | Audio Available? | Questions Available? | Answers Available? | Link |
 |---|---|---|---|---|---|---|---|
-| qaida-audio | Arabic Speech / ASR | Arabic | 2,227 samples | Yes | No | No | [Click](https://huggingface.co/datasets/yourmumisacow/qaida-audio) |
 | dcase2025-audio-qa | Audio Question Answering | English | 15,571 samples | Yes | Yes | Yes (multiple choice) | [Click](https://huggingface.co/datasets/gijs/dcase2025-audio-qa) |
 | trivia_qa_audio_score | Audio Question Answering | English | 1,000 samples | Yes | Yes | Yes | [Click](https://huggingface.co/datasets/chiyuanhsiao/trivia_qa-audio-score) |
-| SADA | Arabic Speech / ASR | Arabic | 4,567 files | Yes | No | No | [Click](https://www.kaggle.com/datasets/sdaiancai/sada2022/data) |
 | Merged Arabic Corpus of Isolated Words | Arabic Speech Recognition | Arabic | 1,000 files | Yes | No | No | [Click](https://www.kaggle.com/datasets/mohamedanwarvic/merged-arabic-corpus-of-isolated-words) |
 | Quran Ayat Speech to Text | Arabic Speech-to-Text | Arabic | ~232K files | Yes | No | No | [Click](https://www.kaggle.com/datasets/bigguyubuntu/quran-ayat-speech-to-text/data) |
 | Arabic Language Comprehension | Text QA / Reading Comprehension | Arabic | 702 samples | No | Yes | Yes | [Click](https://www.kaggle.com/datasets/thedevastator/unlocking-arabic-language-comprehension-with-the?select=validation.csv) |
@@ -67,7 +65,7 @@ An important observation from the initial search is that many Arabic speech data
 
 The Arabic datasets found so far mainly provide either:
 
-- **Audio without QA pairs**, such as SADA, Quran Ayat Speech to Text, and qaida-audio; or
+- **Audio without QA pairs**, such as Quran Ayat Speech to Text and the Merged Arabic Corpus of Isolated Words; or
 - **QA pairs without audio**, such as Arabic Language Comprehension and Shifaa.
 
 This may become an important research direction later because an Arabic Audio QA dataset could potentially be created by combining an Arabic QA dataset with recorded or synthesized speech.
